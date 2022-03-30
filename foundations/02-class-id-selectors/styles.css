@@ -2,7 +2,7 @@
 
 .odd-numbers {
     background-color: rgb(250, 203, 187);
-    font-family: "Verdana", "Dejavu sans", sans-serif;
+    font-family: Verdana, "Dejavu sans", sans-serif;
 }
 
 #first-even {
@@ -15,5 +15,5 @@
    background-color: rgb(144, 238, 144); 
    font-size: 24px;
    font-weight: bold;
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-family: Tahoma, sans-serif;
 }
