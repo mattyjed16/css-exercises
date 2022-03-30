@@ -1,6 +1,18 @@
 /* styles.css */
 
-.class-selector {
-    background-color: rgb(238, 150, 120);
-    font-family: "Verdana", "Dejavu sans, sans-serif";
+.odd-numbers {
+    background-color: rgb(250, 203, 187);
+    font-family: "Verdana", "Dejavu sans", sans-serif;
+}
+
+#first-even {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+    font-family: sans-serif;
+}
+
+#second-even {
+   background-color: rgb(144, 238, 144); 
+   font-size: 24px;
+   font-weight: bold;
 }
